@@ -1,0 +1,268 @@
+Uri: https://cdn.sendpulse.com/28edd3380a1c17cf65b137fe96516659/js/push/9ee7b05baeab277002c467a9a39aa321_0.js
+File Name: K:\kopatel-online.ru\28edd3380a1c17cf65b137fe96516659\js\push\9ee7b05baeab277002c467a9a39aa321_0.js
+Content Type: application/javascript
+
+Uri: https://cdn.sendpulse.com/28edd3380a1c17cf65b137fe96516659/js/push/b399d337d89666c7db7236f283dc6c50_1.js
+File Name: K:\kopatel-online.ru\28edd3380a1c17cf65b137fe96516659\js\push\b399d337d89666c7db7236f283dc6c50_1.js
+Content Type: application/javascript
+
+Uri: https://kopatel-online.ru/
+File Name: K:\kopatel-online.ru\index.htm
+Content Type: text/html
+
+Uri: https://kopatel-online.ru/digger.php
+File Name: K:\kopatel-online.ru\digger.php.html
+Content Type: text/html
+
+Uri: https://kopatel-online.ru/favicon.ico
+File Name: K:\kopatel-online.ru\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://kopatel-online.ru/Main/ARTM.jpg
+File Name: K:\kopatel-online.ru\Main\ARTM.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/background1920.jpg
+File Name: K:\kopatel-online.ru\Main\background1920.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/background1920.png
+File Name: K:\kopatel-online.ru\Main\background1920.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/BFUK9OFHOX0.jpg
+File Name: K:\kopatel-online.ru\Main\BFUK9OFHOX0.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/bg5.png
+File Name: K:\kopatel-online.ru\Main\bg5.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/bg6.png
+File Name: K:\kopatel-online.ru\Main\bg6.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/canvas-border.png
+File Name: K:\kopatel-online.ru\Main\canvas-border.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/canvas_preview-border.png
+File Name: K:\kopatel-online.ru\Main\canvas_preview-border.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/carousel.js
+File Name: K:\kopatel-online.ru\Main\carousel.js
+Content Type: application/javascript
+
+Uri: https://kopatel-online.ru/Main/colorbox.css
+File Name: K:\kopatel-online.ru\Main\colorbox.css
+Content Type: text/css
+
+Uri: https://kopatel-online.ru/Main/controls.png
+File Name: K:\kopatel-online.ru\Main\controls.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/default.jpg
+File Name: K:\kopatel-online.ru\Main\default.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/digger.png
+File Name: K:\kopatel-online.ru\Main\digger.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/dwnld_bg.png
+File Name: K:\kopatel-online.ru\Main\dwnld_bg.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/dwnld_button.png
+File Name: K:\kopatel-online.ru\Main\dwnld_button.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/dwnld_button_en.png
+File Name: K:\kopatel-online.ru\Main\dwnld_button_en.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/et1.png
+File Name: K:\kopatel-online.ru\Main\et1.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/et2.png
+File Name: K:\kopatel-online.ru\Main\et2.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/et3.png
+File Name: K:\kopatel-online.ru\Main\et3.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/et4.png
+File Name: K:\kopatel-online.ru\Main\et4.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/et5.png
+File Name: K:\kopatel-online.ru\Main\et5.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/et6.png
+File Name: K:\kopatel-online.ru\Main\et6.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/font.css
+File Name: K:\kopatel-online.ru\Main\font.css
+Content Type: text/css
+
+Uri: https://kopatel-online.ru/Main/hHj7pULGgFs.jpg
+File Name: K:\kopatel-online.ru\Main\hHj7pULGgFs.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/hqdefault.jpg
+File Name: K:\kopatel-online.ru\Main\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/icon.png
+File Name: K:\kopatel-online.ru\Main\icon.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/jquery-2.1.0.min.js
+File Name: K:\kopatel-online.ru\Main\jquery-2.1.0.min.js
+Content Type: application/javascript
+
+Uri: https://kopatel-online.ru/Main/jquery.colorbox-min.js
+File Name: K:\kopatel-online.ru\Main\jquery.colorbox-min.js
+Content Type: application/javascript
+
+Uri: https://kopatel-online.ru/Main/KyGevXTK77M.jpg
+File Name: K:\kopatel-online.ru\Main\KyGevXTK77M.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/lg_eng.png
+File Name: K:\kopatel-online.ru\Main\lg_eng.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/lg_ru.png
+File Name: K:\kopatel-online.ru\Main\lg_ru.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/logo.png
+File Name: K:\kopatel-online.ru\Main\logo.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/logo_en.png
+File Name: K:\kopatel-online.ru\Main\logo_en.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/main.js
+File Name: K:\kopatel-online.ru\Main\main.js
+Content Type: application/javascript
+
+Uri: https://kopatel-online.ru/Main/n_lhoud-Wtc.jpg
+File Name: K:\kopatel-online.ru\Main\n_lhoud-Wtc.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/S273mC07InM.jpg
+File Name: K:\kopatel-online.ru\Main\S273mC07InM.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/start.png
+File Name: K:\kopatel-online.ru\Main\start.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Main/style.css
+File Name: K:\kopatel-online.ru\Main\style.css
+Content Type: text/css
+
+Uri: https://kopatel-online.ru/Main/style_media.css
+File Name: K:\kopatel-online.ru\Main\style_media.css
+Content Type: text/css
+
+Uri: https://kopatel-online.ru/Main/xSFA7J-K6JA.jpg
+File Name: K:\kopatel-online.ru\Main\xSFA7J-K6JA.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Main/zfwxZ--UhUc7FVfgT21PRQ.ttf
+File Name: K:\kopatel-online.ru\Main\zfwxZ--UhUc7FVfgT21PRQ.ttf
+Content Type: font/ttf
+
+Uri: https://kopatel-online.ru/Play/dwnld_button.png
+File Name: K:\kopatel-online.ru\Play\dwnld_button.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/ico.png
+File Name: K:\kopatel-online.ru\Play\ico.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/1.png
+File Name: K:\kopatel-online.ru\Play\Images\1.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/10.png
+File Name: K:\kopatel-online.ru\Play\Images\10.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/11.png
+File Name: K:\kopatel-online.ru\Play\Images\11.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/2.png
+File Name: K:\kopatel-online.ru\Play\Images\2.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/3.png
+File Name: K:\kopatel-online.ru\Play\Images\3.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/4.png
+File Name: K:\kopatel-online.ru\Play\Images\4.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/5.png
+File Name: K:\kopatel-online.ru\Play\Images\5.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/7.png
+File Name: K:\kopatel-online.ru\Play\Images\7.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/8.png
+File Name: K:\kopatel-online.ru\Play\Images\8.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/downld_button.png
+File Name: K:\kopatel-online.ru\Play\Images\downld_button.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/launcher.png
+File Name: K:\kopatel-online.ru\Play\Images\launcher.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/Images/vk.png
+File Name: K:\kopatel-online.ru\Play\Images\vk.png
+Content Type: image/png
+
+Uri: https://kopatel-online.ru/Play/js/change.js?ver=6
+File Name: K:\kopatel-online.ru\Play\js\change.js
+Content Type: application/javascript
+
+Uri: https://kopatel-online.ru/Play/kodc.jpg
+File Name: K:\kopatel-online.ru\Play\kodc.jpg
+Content Type: image/jpeg
+
+Uri: https://kopatel-online.ru/Play/main.css
+File Name: K:\kopatel-online.ru\Play\main.css
+Content Type: text/css
+
+Uri: https://kopatel-online.ru/Play/style_media.css
+File Name: K:\kopatel-online.ru\Play\style_media.css
+Content Type: text/css
+
+Uri: https://mc.yandex.ru/watch/54459166
+File Name: K:\kopatel-online.ru\watch\54459166
+Content Type: image/gif
+
+Uri: https://usocial.pro/usocial/usocial.js?v=6.1.4
+File Name: K:\kopatel-online.ru\usocial\usocial.js
+Content Type: application/javascript
+
+Uri: https://vk.com/js/api/openapi.js?162
+File Name: K:\kopatel-online.ru\js\api\openapi.js
+Content Type: application/x-javascript
+
